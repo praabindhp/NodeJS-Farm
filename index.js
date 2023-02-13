@@ -2,8 +2,8 @@
 
 const fs = require('fs');
 const http = require('http');
-const url = require( 'url');
-const replaceTemplate = require('./modules/replaceTemplate');
+const url = require('url');
+const replaceTemplates = require('./modules/replaceTemplates');
 
 // const hello = 'Hello World!';
 // console.log(hello);
