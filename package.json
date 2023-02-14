@@ -2,9 +2,9 @@
   "name": "nodejs-farm",
   "version": "1.0.0",
   "description": "Praabindh's Farm Site For NodeJS Practice",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
